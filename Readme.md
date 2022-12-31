@@ -10,4 +10,3 @@
 
 <img src="https://i.imgur.com/ps9ohI7.png">
 
-<a href="https://matheusmrqs4.github.io/js-countdown/">Link GitHub Pages</a>
